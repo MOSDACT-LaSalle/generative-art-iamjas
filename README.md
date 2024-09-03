@@ -1,6 +1,7 @@
 Here in folders are all my sketches. From my Gaudi star, to the experiments I have been doing to get to the final sketch (Halos In Kaos) that we have been asked to deliver. It is curious that, as the first task, we were asked to make a Gaudi star because my Master's Final Project will be based on the Catalan modernism (what a cool coincidence). In the experimental sketches I have been playing with irregular polygons (as is done in trencadís) and with deformed curves based on natural formations. Also, I've been painting with my live music connecting Ableton and Processing via OSC. 
 
 **Final sketch: HalosInKaos**
+
 HalosInKaos is a generative art project created using Processing. The project generates a series of dynamic polygonal shapes that rotate and pulse around a constantly moving center. These polygons are surrounded by arcs of various styles, which rotate and shift, creating a visually chaotic yet harmonious effect.
 
 **Features**
@@ -12,6 +13,7 @@ HalosInKaos is a generative art project created using Processing. The project ge
 - Lighting Usage: The project uses directional and ambient lighting to add depth and realism to the 3D shapes.
 
 **Code Structure**
+
 The code is mainly structured into two parts:
 
 1. Initialization (setup):
@@ -23,12 +25,15 @@ The code is mainly structured into two parts:
    - The polygons and the surrounding arcs are drawn, applying the configured lights to create a 3D effect.
 
 **How It Works**
+
 When the program starts, the polygons are configured with a random number of vertices, and they are assigned colors and positions in 3D space. During each drawing cycle, the polygons rotate and pulse, while the arcs around them also animate independently. At specific time intervals, the origin point of the polygons randomly changes within the canvas, creating a new visual configuration.
 
 **Usage**
+
 To run HalosInKaos, you’ll need to have Processing installed. Simply download the code and open it in Processing, then run the sketch to see the animation in real time.
 
 **Customization**
+
 You can adjust the following parameters to change the behavior of the animation:
 
 - numPolygons: Number of polygons generated.
