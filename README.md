@@ -2,7 +2,8 @@ Here in folders are all my sketches. From my Gaudi star, to the experiments I ha
 
 **Final sketch: Halos In Kaos**
 
-Halos In Kaos is a generative art project created using Processing. The project generates a series of dynamic polygonal shapes that rotate and pulse around a constantly moving center. These polygons are surrounded by arcs of various styles, which rotate and shift, creating a visually chaotic yet harmonious effect.
+Halos In Kaos is a generative art project created using Processing. The project generates a series of dynamic polygonal shapes that rotate and pulsate 
+around a constantly moving center. In turn, these polygons are surrounded by arcs (using code by artist Alba G. Corral) of various styles, which rotate and shift, creating a chaotic but harmonious visual effect.
 
 **Features**
 
