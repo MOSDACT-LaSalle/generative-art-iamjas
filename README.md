@@ -1,8 +1,8 @@
 Here in folders are all my sketches. From my Gaudi star, to the experiments I have been doing to get to the final sketch (Halos In Kaos) that we have been asked to deliver. It is curious that, as the first task, we were asked to make a Gaudi star because my Master's Final Project will be based on the Catalan modernism (what a cool coincidence). In the experimental sketches I have been playing with irregular polygons (as is done in trencadís) and with deformed curves based on natural formations. Also, I've been painting with my live music connecting Ableton and Processing via OSC. 
 
-**Final sketch: HalosInKaos**
+**Final sketch: Halos In Kaos**
 
-HalosInKaos is a generative art project created using Processing. The project generates a series of dynamic polygonal shapes that rotate and pulse around a constantly moving center. These polygons are surrounded by arcs of various styles, which rotate and shift, creating a visually chaotic yet harmonious effect.
+Halos In Kaos is a generative art project created using Processing. The project generates a series of dynamic polygonal shapes that rotate and pulse around a constantly moving center. These polygons are surrounded by arcs of various styles, which rotate and shift, creating a visually chaotic yet harmonious effect.
 
 **Features**
 
